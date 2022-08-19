@@ -6,7 +6,7 @@ In this project, I first developed code for an image classifier built with Tenso
 
 ***My First Machine Learning Project with Tensorflow***
 
-<img src='assets/inf.png' width=500px>
+<img src='assets/inf.PNG' width=500px>
 
 ## Data
 
